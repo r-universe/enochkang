@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rankinma"]
+	path = rankinma
+	url = https://github.com/cran/rankinma
+	shallow = true
+	registered = true
