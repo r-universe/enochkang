@@ -7,4 +7,4 @@
 	url = https://github.com/cran/aides
 [submodule "rankinma"]
 	path = rankinma
-	url = https://github.com/cran/rankinma
+	url = https://github.com/enochkang/rankinma
