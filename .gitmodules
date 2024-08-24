@@ -8,3 +8,6 @@
 [submodule "rankinma"]
 	path = rankinma
 	url = https://github.com/enochkang/rankinma
+[submodule "smiles"]
+	path = smiles
+	url = https://github.com/cran/smiles
